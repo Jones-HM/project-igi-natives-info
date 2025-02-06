@@ -714,6 +714,15 @@
 		},
 		{
 			"Native": {
+				"hash": "004D67A0",
+				"address": 5072800,
+				"name": "ViewIFFAnimation",
+				"signature": "int view_iff_animation(char **args)",
+				"note": "View animations from IFF file"
+			}
+		},
+		{
+			"Native": {
 				"hash": "0045C440",
 				"address": 4572224,
 				"name": "SoldierExecute",
